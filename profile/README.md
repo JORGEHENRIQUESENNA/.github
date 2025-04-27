@@ -1,12 +1,36 @@
-## Hi there 👋
+# JSenna Consultoria
 
-<!--
+🚀 Transformando dados em resultados estratégicos para o seu negócio.
 
-**Here are some ideas to get you started:**
+A JSenna Consultoria é especializada em Business Intelligence (BI), integração de dados, automação de processos e tuning de performance em sistemas. Atuamos de forma personalizada para empresas dos setores de Varejo, Comercial, Compras, Logística e B2B.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌐 Serviços
+
+- Business Intelligence (BI) personalizado
+- Integração de sistemas (WhatsApp, CRM, VoIP, E-mail)
+- Automação de relatórios e processos empresariais
+- Tuning e otimização de performance de sistemas
+- Tratamento e análise de dados (Excel, APIs, Bancos de Dados)
+
+## 🛠 Tecnologias que Utilizamos
+
+- Power BI, Tableau, Google Data Studio
+- PHP, Node.js, Python
+- SQL Server, MySQL, PostgreSQL
+- APIs RESTful e integração de dados em tempo real
+
+## 🚀 Nosso Projeto em Andamento
+
+**JSenna Connect** – Plataforma integrada de BI, comunicação e automação de dados, com previsão de lançamento em **dezembro de 2025**.
+
+## 📞 Contato
+
+- 🌐 Site: [www.jsenna.com.br](http://www.jsenna.com.br)
+- 📸 Instagram: [@jsenna.bi](https://instagram.com/jsenna.bi)
+- ✉️ E-mail: contato@jsenna.com.br
+
+---
+
+**JSenna Consultoria — Inteligência que conecta e transforma negócios.**
+
+#BusinessIntelligence #JSenna #DataDriven #TransformaçãoDigital #Inovação
